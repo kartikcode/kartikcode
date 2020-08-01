@@ -1,9 +1,20 @@
-### Hi there 👋
+### Hello Geek <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I am a sophomore at Indian Institute of Technology, Kanpur and currently pursuing my majors in Mechanical Engineering.😄</br>
+I am interested in virtually anyhting related to technology, but specifically I like reading a lot about history of various technologies and how they've evolved over time.</br>
+For the programming part, I love to play around with different algorithms and also fancy myself as newbie🌱 web developer.<br/> UI designing ❤️
 
-<!--
-**kartikcode/kartikcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Kartikeya's github stats](https://github-readme-stats.vercel.app/api?username=kartikcode&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikcode&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/kartikcode/maze-game">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kartikcode&repo=maze-game&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/kartikcode/8W8L">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kartikcode&repo=8W8L&show_icons=true&theme=radical" />
+</a><br/><br/><br/><br/><br/><br/><br/>
 
-Here are some ideas to get you started:
+
+
+#### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
