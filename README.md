@@ -11,7 +11,7 @@ For the programming part, I love to play around with different algorithms and al
 </a>
 <a href="https://github.com/kartikcode/8W8L">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kartikcode&repo=8w8l&show_icons=true&theme=radical" />
-</a><br/><br/><br/><br/><br/><br/><br/>
+</a><br/><br/><br/><br/><br/><br/><br/><br/>
 
 I usually code in C/C++, JavaScript and Scala. Ask me about ideal languages, I think Scala would be my answer.<br/>
 - Up for collab? Anything from web development to robotics, feel free to ping me!✨
